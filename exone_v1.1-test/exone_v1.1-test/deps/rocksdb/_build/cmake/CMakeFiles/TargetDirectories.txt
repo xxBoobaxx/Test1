@@ -1,0 +1,4 @@
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/CMakeFiles/erocksdb.dir
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/CMakeFiles/rocksdb.dir
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/CMakeFiles/edit_cache.dir
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/CMakeFiles/rebuild_cache.dir

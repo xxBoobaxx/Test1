@@ -1,0 +1,13 @@
+# Target labels
+ rocksdb
+# Source files and their labels
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/CMakeFiles/rocksdb
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/CMakeFiles/rocksdb.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/CMakeFiles/rocksdb-complete.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/rocksdb-prefix/src/rocksdb-stamp/rocksdb-build.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/rocksdb-prefix/src/rocksdb-stamp/rocksdb-configure.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/rocksdb-prefix/src/rocksdb-stamp/rocksdb-download.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/rocksdb-prefix/src/rocksdb-stamp/rocksdb-install.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/rocksdb-prefix/src/rocksdb-stamp/rocksdb-mkdir.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/rocksdb-prefix/src/rocksdb-stamp/rocksdb-patch.rule
+/Users/arnold/Downloads/exone/deps/rocksdb/_build/cmake/rocksdb-prefix/src/rocksdb-stamp/rocksdb-update.rule
